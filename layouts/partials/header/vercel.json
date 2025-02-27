@@ -1,0 +1,9 @@
+    "build": {
+
+        "env": {
+
+            "HUGO_VERSION": "0.143.1""  // Replace with the desired Hugo version number
+
+        }
+
+    }
