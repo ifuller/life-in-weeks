@@ -8,7 +8,7 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [context.production]
-command = "hugo --minify --baseURL https://weeks.ginatrapani.org/"
+command = "hugo --minify --baseURL https://weeks.voidstar.org/"
 
 [context.deploy-preview]
 command = "hugo --baseURL $DEPLOY_PRIME_URL"
