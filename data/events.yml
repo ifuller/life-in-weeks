@@ -2,121 +2,51 @@
 # The first event should be birth.
 # The date should match start_date in content/index.md.
 #
-"1975-09-19":
+"1970-05-01":
     - headline: "🐣 I was born"
-      description: "I entered the world at around 9am in Brooklyn, New York, USA, the youngest of 4 by far, a happy accident. Thanks, Mom. Dad came to the hospital in a jacket and tie to meet me for the first time."
-      based: "Brooklyn"
-      doing: "I was tiny"
+      description: ""
+      based: "South Carolina"
+      doing: "I was a little guy"
 
-"1980-09-01":
-    - headline: "🖍️ Kindergarten"
-      description: "Went to Tiny Tot Schoolhouse, where Miss Mary and Miss Nini were my teachers."
-      based: "Brooklyn"
-      doing: "Kindergartner"
-      association: "Tiny Tot Schoolhouse"
-
-"1981-09-01":
-    - headline: "📓 Elementary school"
-      description: "Went to Catholic school, with uniforms, nuns, mass, and all."
-      based: "Brooklyn"
-      doing: "Student"
-      association: "St. E"
-
-"1984-04-01":
-    - headline: "🖥️ First computer"
-      description: "Dad loved gadgets and was ahead of his time when he bought us an IBM PCjr. Wrote my first BASIC programs on that machine, played the Keyboard Adventure easter egg game, Kings Quest and Space Quest, and drew a pixelated Van Halen logo with A."
-
-"1989-09-01":
+"1984-09-01":
     - headline: "📚 High school"
-      description: "All girls Catholic high schoool, where my sister went."
-      based: "Brooklyn"
+      description: "Some rural high school."
+      based: "New Jersey"
       doing: "High school student"
-      association: "BKHS"
+      association: "LRHS"
 
-"1989-11-23":
-    - headline: "🎫 First concert"
-      description: "New Kids on the Block at Madison Square Garden. Whole school won tickets in an NYC radio contest by writing the most index cards of any other school in the 5 boroughs."
-
-"1991-10-01":
-    - headline: "💶 Visited Europe"
-      description: "My first time travelling outside of the US was a school trip to Europe: Italy, France, and England. Begged my parents to let me go on this trip instead of have a sweet sixteen party (blech)."
-
-"1992-09-20":
-    - headline: "🪪 Drivers license"
-      description: "The day I passed my drivers test, my parents looked stricken."
-
-"1993-09-02":
+"1988-09-02":
     - headline: "🏫 Left for college"
-      based: "Poughkeepsie"
+      based: "New Jersey"
       doing: "College student"
-      association: "Marist"
-      description: "Went to Marist College thanks to a scholarship, a loan, Mom & Dad, and Metro-North."
+      association: "TCNJ"
+      description: ""
 
-"1993-09-15":
-    - headline: "🖨️ Help desk"
-      description: "Started an on-campus job at Marist's computer lab help desk, where I worked all 4 years. The lab ran mainframe terminals, OS/2 and DOS workstations. Printers jammed constantly. Earned minimum wage, $4.25/hour, and learned so much."
+"1989-09-15":
+    - headline: "🖨️ Computer Graphics Lab Tech"
+      description: "Started an on-campus job in the Art Department's computer lab. This lucky move would go on to shape most of my career."
 
-"1993-09-10":
-    - headline: "👽 The X-Files"
-      description: "The X-Files pilot aired on this day. I didn't watch much TV in college so it probably took me a couple of seasons to get turned onto it, but once I did... The X-Files and in particular Dana Scully made a huge impression on young me, and began my life-long Gillian Anderson adoration."
+"1990-09-15":
+    - headline: "🖨️ Computer Graphics Lab Manager"
+      description: "I kept this Mac and PC lab running smoothly for art students."
 
-"1994-10-01":
-    - headline: "🌎 Saw my first webpage"
-      description: "Around this time, I saw a webpage for the first time. A coworker in the computer lab showed me the Mosaic browser running on OS/2. Lightbulb moment."
-
-"1995-10-03":
-    - headline: "💔 Lost Dad"
-      description: "Miss you every day."
-
-"1996-10-01":
-    - headline: "🌎 Made my first webpages"
-      description: "Around this time, I started making my own webpages in earnest, spending long nights in the lab office, a room of my own with a computer and a door."
-
-"1997-03-21":
-    - headline: "💝 First date with T"
-      description: "She asked, thank goodness."
-
-"1997-06-15":
+"1992-06-15":
     - headline: "🎓 Graduated college"
-      description: "Bachelor of Arts in English, Creative Writing"
-      doing: "Funemployed"
-      based: "Brooklyn"
+      description: "Bachelor of Science in Computer Science"
+      doing: "Working"
+      based: "New Jersey"
       association: ""
 
-"1997-06-29":
-    - headline: "🗽 NY Liberty"
-      description: "Let's go Liberty! Best graduation gift ever from L: Inaugural season tickets for the WNBA's New York Liberty at Madison Square Garden."
-
-"1997-07-01":
-    - headline: "🏠 Moved home"
-
-"1997-07-01":
+"1993-07-01":
     - headline: "🌅 Went west"
-      description: "Took my first trip to the left coast with Mom & L. We visited Phoenix, Sedona, Yosemite, and San Francisco. This is when I knew I'd move west someday."
+      based: "North San Jose"    
+      description: "Took a big leap and found a job that would move me to Silicon Valley."
 
 "1997-07-15":
     - headline: "🛗 Elevators"
       description: "First professional IT job at the elevator company where Dad and my brothers worked. Elevator control is a fascinating engineering and programming problem. Mostly learned networking and programming Java here."
       doing: "Working"
       association: "O. Thompson"
-
-"1997-09-01":
-    - headline: "📚 Grad school"
-      description: "A computer science program for which this English major was missing most math prerequisites. Catchup was tough."
-      based: "Brooklyn"
-      doing: "Student"
-      association: "CUNY"
-
-"1999-06-15":
-    - headline: "🎓 Graduated"
-      description: "Master's of Science in Computer Information Systems"
-      based: "Brooklyn"
-      doing: "Working"
-      association: "O. Thompson"
-
-"1999-10-15":
-    - headline: "🛩️ Skydove, engaged"
-      description: "T proposed and then we jumped out of an airplane. Not sure which was scarier."
 
 "1999-12-31":
     - headline: "💥 Y2K"
@@ -382,11 +312,11 @@
     - headline: "📍 Made this"
       description: "A lot of rest and reflection and space and time to explore led to finding Life in Weeks, copying it, and making it my own."
 
-"2059-09-19":
+"2065-05-01":
     - headline: "☠️ Life expectancy"
 
-"2075-09-19":
-    - headline: "🥰 Hug T&E at the beach"
+"2070-05-01":
+    - headline: "🥰 Hug E,R,J at the beach"
 
 # Presidents
 "1981-01-20":
@@ -400,8 +330,8 @@
 "2009-01-20":
     - headline: "🇺🇸 Obama inaugurated"
 "2017-01-20":
-    - headline: "🇺🇸 Cheeto inaugurated"
+    - headline: "🇺🇸 REDACTED inaugurated"
 "2021-01-20":
     - headline: "🇺🇸 Biden inaugurated"
 "2025-01-20":
-    - headline: "🇺🇸 Cheeto inaugurated"
+    - headline: "🇺🇸 REDACTED inaugurated"
