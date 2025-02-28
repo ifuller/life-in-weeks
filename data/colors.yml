@@ -8,43 +8,43 @@
 #
 - class_name: "south-carolina"
   element: "border"
-  color_name: "#8eb2d6"
+  color_name: "#6A9FB5"  # Soft blue
 - class_name: "north-carolina"
   element: "border"
-  color_name: "#118B50"
+  color_name: "#4CAF50"  # Green
 - class_name: "minnesota"
   element: "border"
-  color_name: "#469046"
+  color_name: "#8BC34A"  # Light green
 - class_name: "new-jersey"
   element: "border"
-  color_name: "#FCC737"
+  color_name: "#FFC107"  # Amber
 - class_name: "silicon-valley"
   element: "border"
-  color_name: "#8eb2d6"
+  color_name: "#03A9F4"  # Light blue
 - class_name: "i-was-tiny"
   element: "background-color"
-  color_name: "white"
+  color_name: "#E0F7FA"  # Light cyan
 - class_name: "kindergartner"
   element: "background-color"
-  color_name: "#FFF6DA"
+  color_name: "#FFF9C4"  # Light yellow
 - class_name: "student"
   element: "background-color"
-  color_name: "#E8F9FF"
+  color_name: "#E1F5FE"  # Light blue
 - class_name: "high-school-student"
   element: "background-color"
-  color_name: "#C9E9D2"
+  color_name: "#FFF3E0"  # Light orange
 - class_name: "college-student"
   element: "background-color"
-  color_name: "#FFE3E3"
+  color_name: "#FFCDD2"  # Light red
 - class_name: "working"
   element: "background-color"
-  color_name: "#F8E7F6"
+  color_name: "#F3E5F5"  # Light purple
 - class_name: "freelancing"
   element: "background-color"
-  color_name: "#d6d6f0"
+  color_name: "#E8EAF6"  # Light indigo
 - class_name: "funemployed"
   element: "background-color"
-  color_name: "white"
+  color_name: "#F5F5F5"  # Light grey
 - class_name: "retired"
   element: "background-color"
-  color_name: "white"
+  color_name: "#F5F5F5"  # Light grey
