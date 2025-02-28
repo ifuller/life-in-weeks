@@ -22,6 +22,22 @@ This code was copied and adapted from [Buster Benson](https://busterbenson.com/l
 ```
 3. Visit [http://localhost:1313/](http://localhost:1313/).
 
+## Running in GitHub Codespaces
+
+When running this Hugo site in GitHub Codespaces, use the following command to properly serve the site with styling:
+
+```bash
+hugo serve --baseURL="https://${CODESPACE_NAME}-80.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}/" --appendPort=false
+```
+
+This prevents port mapping issues that can break CSS and other static assets when Codespaces remaps Hugo's default port.
+
+For convenience, you can use the provided script:
+
+```bash
+bash codespace-serve.sh
+```
+
 ## ✨ Customize
 
 - `content/` → Page content
