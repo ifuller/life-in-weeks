@@ -6,6 +6,8 @@
 # Convert based and doing class_name's to lower case and replace spaces with dashes
 # i.e., New York City becomes new-york-city
 #
+
+# Borders. these match the 'based' key in events.yml
 - class_name: "south-carolina"
   element: "border"
   color_name: "#6A9FB5"  # Soft blue
@@ -21,6 +23,8 @@
 - class_name: "silicon-valley"
   element: "border"
   color_name: "#03A9F4"  # Light blue
+
+# Backgrounds. these match the 'doing' key in events.yml
 - class_name: "i-was-tiny"
   element: "background-color"
   color_name: "#E0F7FA"  # Light cyan
@@ -48,3 +52,49 @@
 - class_name: "retired"
   element: "background-color"
   color_name: "#F5F5F5"  # Light grey
+
+
+# Missing Backgrounds (doing activities)
+- class_name: "i-was-a-little-guy"
+  element: "background-color"
+  color_name: "#E0F7FA"  # Light cyan (same as i-was-tiny for consistency)
+
+- class_name: "engineering-manager"
+  element: "background-color"
+  color_name: "#DCEDC8"  # Light green
+
+- class_name: "senior-engineering-manager"
+  element: "background-color"
+  color_name: "#C8E6C9"  # Slightly darker green
+
+- class_name: "director-of-engineering"
+  element: "background-color"
+  color_name: "#B2DFDB"  # Light teal
+
+- class_name: "multimedia-engineer"
+  element: "background-color"
+  color_name: "#BBDEFB"  # Light blue
+
+- class_name: "software-engineer"
+  element: "background-color"
+  color_name: "#D1C4E9"  # Light purple
+
+- class_name: "senior-engineer"
+  element: "background-color"
+  color_name: "#C5CAE9"  # Light indigo
+
+- class_name: "staff-engineer"
+  element: "background-color"
+  color_name: "#B3E5FC"  # Light blue
+
+- class_name: "director-of-app-development"
+  element: "background-color"
+  color_name: "#B2EBF2"  # Light cyan
+
+- class_name: "contractor"
+  element: "background-color"
+  color_name: "#E1BEE7"  # Light purple
+
+- class_name: "self-employed"
+  element: "background-color"
+  color_name: "#D7CCC8"  # Light brown

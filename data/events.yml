@@ -37,7 +37,7 @@
       based: "New Jersey"
       association: ""
 
-"1993-07-01":
+"1994-05-01":
     - headline: "🌅 Went west"
       based: "Silicon Valley"    
       description: "Took a big leap and found a job that would move me to Silicon Valley."
@@ -77,6 +77,99 @@
 
 "2070-05-01":
     - headline: "🥰 Hug E,R,J at the beach"
+
+# Resume
+
+"2022-02-01":
+  - headline: "🏖️ Retired"
+    description: ""
+    based: "Silicon Valley"
+    doing: "Retired"
+    association: ""
+
+"2020-01-01":
+  - headline: "💬 Google Chat - Manager"
+    description: "Responsible for the core chat experience in Gmail for iPhone & iPad."
+    based: "Silicon Valley"    
+    doing: "Engineering Manager"
+    association: "Google"
+
+"2015-10-01":
+  - headline: "🍊 Orange Tree IO - Independent Contractor"
+    description: "VR, macOS and iOS applications."
+    based: "Silicon Valley"    
+    doing: "Self Employed"
+    association: "Orange Tree IO"
+
+"2014-07-01":
+  - headline: "🎬 Apple - Sr. Manager, iMovie"
+    description: "Led iMovie engineering. Built a bunch of new features."
+    based: "Silicon Valley"    
+    doing: "Senior Engineering Manager"
+    association: "Apple"
+
+"2011-11-01":
+  - headline: "📚 Barnes & Noble College - Director"
+    description: "Built an org! We made textbook storefront and studying apps."
+    based: "Silicon Valley"    
+    doing: "Director of Engineering"
+    association: "Barnes & Noble College"
+
+"2003-10-01":
+  - headline: "🍎 Apple - Manager"
+    description: "Managed DVD Studio Pro development and macOS iLife Media Browser."
+    based: "Silicon Valley"    
+    doing: "Engineering Manager"
+    association: "Apple"
+
+"2003-02-01":
+  - headline: "🌎 Keyhole, Inc. (Google Earth)"
+    description: "Re-architected EarthViewer 3D application (later Google Earth) for extensibility."
+    based: "Silicon Valley"    
+    doing: "Senior Engineer"
+    association: "Keyhole/Google Earth"
+
+"2002-04-01":
+  - headline: "🎥 iVAST - Staff Software Engineer"
+    description: "Developed MPEG-4 Part 11 authoring & encoding tool."
+    based: "Silicon Valley"    
+    doing: "Staff Engineer asdf"
+    association: "iVAST"
+
+"2001-09-01":
+  - headline: "🖱️ Contractor - Digital Artforms"
+    description: "Designed mouse-based control for 3D virtual reality environment."
+    based: "Silicon Valley"    
+    doing: "Contractor"
+    association: "Digital Artforms"
+
+"1999-02-01":
+  - headline: "👥 Muse Communications - Director"
+    description: "Led software dev for 3D multi-user platform."
+    based: "Silicon Valley"    
+    doing: "Director of App Development"
+    association: "Muse Communications"
+
+"1995-07-01":
+  - headline: "🌐 MultiGen, Inc. - Software Engineer"
+    description: "Worked on MultiGen's VR application: SmartScene."
+    based: "Silicon Valley"    
+    doing: "Software Engineer"
+    association: "MultiGen"
+
+"1994-05-07":
+  - headline: "🎵 NEC Systems"
+    description: "Developed audio/video player UI."
+    based: "Silicon Valley"    
+    doing: "Multimedia Engineer"
+    association: "NEC"
+
+"1992-06-18":
+  - headline: "📼 Midi Corp"
+    description: "Created touch screen and laserdisc-based interactive video training courses."
+    based: "New Jersey"
+    doing: "Multimedia Engineer"
+    association: "Midi Corp"
 
 # Presidents
 "1981-01-20":
