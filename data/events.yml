@@ -8,6 +8,35 @@
       based: "South Carolina"
       doing: "I was a little guy"
 
+"1972-05-01":
+    - headline: "🚚 Moved to Minnesota"
+      description: ""
+      based: "Minnesota"
+
+"1974-05-01":
+    - headline: "🚚 Moved to North Carolina"
+      description: ""
+      based: "North Carolina"
+      doing: "I was a little guy"
+
+"1976-05-01":
+    - headline: "🚚 Moved back to Minnesota"
+      description: ""
+      based: "Minnesota"
+      doing: "I was a little guy"
+
+"1978-05-01":
+    - headline: "🚚 Moved to California"
+      description: ""
+      based: "Walnut Creek"
+      doing: "I was a little guy"
+
+"1982-05-01":
+    - headline: "🚚 Moved to New Jersey"
+      description: ""
+      based: "New Jersey"
+      doing: "I was a little guy"
+
 "1984-09-01":
     - headline: "📚 High school"
       description: "Some rural high school."

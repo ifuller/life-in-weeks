@@ -20,6 +20,9 @@
 - class_name: "new-jersey"
   element: "border"
   color_name: "#FFC107"  # Amber
+- class_name: "walnut-creek"
+  element: "border"
+  color_name: "#03A9F4"  # Light blue
 - class_name: "silicon-valley"
   element: "border"
   color_name: "#03A9F4"  # Light blue
