@@ -24,6 +24,17 @@ This code was copied and adapted from [Buster Benson](https://busterbenson.com/l
 
 ## Running in GitHub Codespaces
 
+Codespaces installs some random version of hugo that will likely not be compatible with this site. To install the correct version, specify it in the `devcontainer.json` file:
+
+```json
+	"features": {
+		"ghcr.io/devcontainers/features/hugo:1": {
+			"extended": true,
+			"version": "0.143.1"
+		}
+	}
+```
+
 When running this Hugo site in GitHub Codespaces, use the following command to properly serve the site with styling:
 
 ```bash
